@@ -62,7 +62,7 @@ export const experiences = [
     ],
   },
   {
-    title: "Graduate Software Engineer",
+    title: "Software Engineer",
     company_name: "Alten UK - Innovation LAB",
     icon: alten,
     iconBg: "#161329",
