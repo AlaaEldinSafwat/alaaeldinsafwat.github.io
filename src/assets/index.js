@@ -9,11 +9,15 @@ import c from "./tech-stack/c.png";
 import cpp from "./tech-stack/cpp.png";
 import typescript from "./tech-stack/typescript.png";
 import go from "./tech-stack/go.png";
+import matlab from "./tech-stack/matlab.png";
 
 // Import project images
 import photopartpro from "./projects/photopartpro.gif";
 import sms from "./projects/sms.jpg";
 import dp from "./projects/dp.jpg";
+import automation from "./projects/automation.jpg";
+import robotics from "./projects/robotics.jpg";
+import vision from "./projects/vision.jpg";
 
 // Import tech logos
 import css from "./tech/css.png";
@@ -49,8 +53,12 @@ export {
   photopartpro,
   sms,
   dp,
+  automation,
+  vision,
+  robotics,
   logo,
   menu,
   close,
   ge,
+  matlab
 };

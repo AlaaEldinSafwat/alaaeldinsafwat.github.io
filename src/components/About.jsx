@@ -40,9 +40,9 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a detail-oriented full-stack developer with proven expertise in Nodejs, python
-        Angular, react, delivering secure and scalable systems and automation tools. 
-        Experienced in backend development with js, python and Go.
+        I’m a software engineer with 5+ years of hands-on experience specialising in backend and full-stack development. I’ve designed and delivered end-to-end systems using Node.js, Go, Python, and C#, taking ownership across the full lifecycle—from system design and implementation to testing, deployment, and production support.
+        My work includes building secure authentication and authorisation systems, scalable RESTful APIs, and internal automation tools used in production environments. I have strong experience developing web applications with Angular, TypeScript, and JavaScript, and integrating them seamlessly with backend services.
+        I’ve worked extensively with CI/CD pipelines, unit testing, and secure system design, and I’m comfortable operating in Linux-based environments using Docker and Git. Earlier in my career, I worked on machine learning and computer vision projects with PyTorch and OpenCV, integrating ML models into backend services for real-world applications.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
